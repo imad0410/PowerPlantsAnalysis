@@ -24,9 +24,3 @@ The original data is open-source and can be accessed at [Open Power Plants Data]
 ## Prerequisites
 - Python 3.8 or later.
 - Required Python libraries (see `requirements.txt`).
-
-## Installation
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/PowerPlantsAnalysis.git
-   cd PowerPlantsAnalysis
