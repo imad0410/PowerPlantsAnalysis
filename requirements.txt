@@ -1,0 +1,2 @@
+pandas                 # For data manipulation and analysis
+openpyxl               # For generating and styling Excel reports
